@@ -1,0 +1,10 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper2 {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+}
